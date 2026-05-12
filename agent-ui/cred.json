@@ -37,7 +37,7 @@
 
     "SEARCH_ENDPOINT":"",
     "SEARCH_API_KEY":"",
-    "SEARCH_INDEX_NAME":"psitrontechnologies",
+    "SEARCH_INDEX_NAME":"",
 	"AGENT_ID":"",
 	"OPENWEATHER_API_KEY":""
 
